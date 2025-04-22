@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://gist.githubusercontent.com/feresq-quasar/0d0c407bfc00b262d695a629bba8f92d/raw/096c2079875ba758131f8599343c298e080fc7f6';
